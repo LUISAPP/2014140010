@@ -1,0 +1,4 @@
+E:\Proyectos\Visual Studio Projects\PaquetesTuristicos\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.dll
+E:\Proyectos\Visual Studio Projects\PaquetesTuristicos\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.pdb
+E:\Proyectos\Visual Studio Projects\PaquetesTuristicos\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.dll
+E:\Proyectos\Visual Studio Projects\PaquetesTuristicos\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.pdb
